@@ -3,9 +3,9 @@
 # Objectives
 In this lab, you learn how to launch a solution using Cloud Marketplace.
 
-     Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
-     Create a Compute Engine virtual machine using the gcloud command-line interface.
-     Connect between the two instances.
+ Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
+ Create a Compute Engine virtual machine using the gcloud command-line interface.
+ Connect between the two instances.
 
 # Create a virtual machine using the gcloud command line
 
